@@ -27,4 +27,4 @@ resources:
   bugtracker: https://github.com/jjn1056/Catalyst-ControllerRole-At/issues
   homepage: https://github.com/jjn1056/Catalyst-ControllerRole-At
   repository: https://github.com/jjn1056/Catalyst-ControllerRole-At.git
-version: '0.001'
+version: '0.002'
